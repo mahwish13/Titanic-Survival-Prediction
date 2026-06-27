@@ -115,6 +115,7 @@ Titanic-Survival-Prediction
 
 ── Titanic_Survival_Prediction.ipynb
 ── train.csv
+── requirements.txt
 ── README.md
 
 This project was developed as part of a Machine Learning and Data Science learning journey using Python and Google Colab.
