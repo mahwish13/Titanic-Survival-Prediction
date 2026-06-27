@@ -112,7 +112,7 @@ Among the evaluated models, K-Nearest Neighbors (KNN) achieved the highest accur
 ## Repository Structure
 
 Titanic-Survival-Prediction
-
+── Titanic Survival Prediction Report
 ── Titanic_Survival_Prediction.ipynb
 ── train.csv
 ── requirements.txt
